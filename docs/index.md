@@ -1,7 +1,7 @@
 # Welcome to Overcoming Common Business Anti-Patterns
 
 
-we understand that identifying and mitigating
+We understand that identifying and mitigating
 anti-patterns is critical to achieving optimal business performance.
 That's why we're excited to offer our Anti-Pattern Identification and
 Mitigation Workshop, designed to provide you with the tools and knowledge
